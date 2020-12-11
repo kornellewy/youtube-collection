@@ -1,3 +1,7 @@
+"""
+source : https://github.com/pytorch/examples/blob/master/mnist/main.py
+"""
+
 # import
 import torch
 import torch.nn as nn
